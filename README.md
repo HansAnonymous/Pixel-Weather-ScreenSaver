@@ -1,4 +1,4 @@
-# Pixel-Weather-ScreenSaver 0.1
+# Pixel-Weather-ScreenSaver 0.1.1
 Display the weather as your screensaver, retro style!
 
 # How do I install it?

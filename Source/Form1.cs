@@ -27,7 +27,7 @@ namespace Pixel_Weather_ScreenSaver
 
         #endregion
         public bool IsPreviewMode;
-        WebSocket websocket = new WebSocket("ws://localhost:2016/");
+        WebSocket websocket = new WebSocket("ws://128.199.142.235:2016/");
         string data = "???|???|???";
         string location = "";
         string unit = "";
