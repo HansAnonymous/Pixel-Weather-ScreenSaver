@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<location>Sydney</location>
+	<!-- Pick a valid location to be displayed -->
+	<unit>C</unit>
+	<!-- Choose either 'C for Celsius', 'F for Fahrenheit' or 'K for Kelvin' -->
+</config>
