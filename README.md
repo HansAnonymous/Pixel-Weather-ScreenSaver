@@ -1,3 +1,5 @@
+# This project has been abandonded
+
 # Pixel-Weather-ScreenSaver 0.1.1
 Display the weather as your screensaver, retro style!
 
